@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCeovElJP0n0i8ADaPsRSd8g"/>
+ <id>yt:channel:UCeovElJP0n0i8ADaPsRSd8g</id>
+ <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+ <title>HAINBACH</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g"/>
+ <author>
+  <name>HAINBACH</name>
+  <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+ </author>
+ <published>2011-04-16T12:32:22+00:00</published>
+ <entry>
+  <id>yt:video:ChyhU-xRZaQ</id>
+  <yt:videoId>ChyhU-xRZaQ</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>Bedřichov Sessions 1 | Ciat-Lonbarde Sidrax, Plumbutter, Cocoquantus</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ChyhU-xRZaQ"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-04-18T20:56:58+00:00</published>
+  <updated>2019-04-21T15:34:40+00:00</updated>
+  <media:group>
+   <media:title>Bedřichov Sessions 1 | Ciat-Lonbarde Sidrax, Plumbutter, Cocoquantus</media:title>
+   <media:content url="https://www.youtube.com/v/ChyhU-xRZaQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/ChyhU-xRZaQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I go back to the roots of this channel and play improvised Ciat-Lonbarde sets in preparation for a summer of live shows.
+24.04. BERLIN Arcaoda
+08.05. BERLIN Patch Point
+30.05. VABRIGA, Croatia, Lighthouse Festival (as ODD NARRATIVE)
+08.06. SPEYER, Botschaft Transit
+16.06. ISTANBUL, Turkey, Krimean Church
+
+Soundpacks, music and a heartfelt Thank You: https://patreon.com/hainbach
+Music: https://hainbach.bandcamp.com
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB</media:description>
+   <media:community>
+    <media:starRating count="212" average="4.89" min="1" max="5"/>
+    <media:statistics views="3736"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:q9ED9f3Z5To</id>
+  <yt:videoId>q9ED9f3Z5To</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>Analog and Digital Synth Fart Patching Techniques with Reaktor 6 and LOOKMUMNOCOMPUTER's Fartbox</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=q9ED9f3Z5To"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-04-15T13:15:21+00:00</published>
+  <updated>2019-04-21T16:19:00+00:00</updated>
+  <media:group>
+   <media:title>Analog and Digital Synth Fart Patching Techniques with Reaktor 6 and LOOKMUMNOCOMPUTER's Fartbox</media:title>
+   <media:content url="https://www.youtube.com/v/q9ED9f3Z5To?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/q9ED9f3Z5To/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which Look Mum No Computer and me get expert advice on digital modular patching by Dr. Julian Parker of Native Instruments. We re-create test equipment and the fabled Fartbox. Filmed at Thomann's Synth Reactor 2019 #tsr19.
+Digital Fart Reaktor Ensemble: https://bit.ly/2UQyBVA 
+Reaktor Player: https://www.native-instruments.com/en/products/komplete/synths/reaktor-6-player/
+
+Soundpacks, music and a heartfelt Thank You: https://patreon.com/hainbach
+Music: https://hainbach.bandcamp.com
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB</media:description>
+   <media:community>
+    <media:starRating count="573" average="4.90" min="1" max="5"/>
+    <media:statistics views="12746"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jaU4Iuaqv6E</id>
+  <yt:videoId>jaU4Iuaqv6E</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>DroloFX Stretch Weaver - Sidechain Effects For Electronic Music</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jaU4Iuaqv6E"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-04-12T20:12:47+00:00</published>
+  <updated>2019-04-21T14:51:09+00:00</updated>
+  <media:group>
+   <media:title>DroloFX Stretch Weaver - Sidechain Effects For Electronic Music</media:title>
+   <media:content url="https://www.youtube.com/v/jaU4Iuaqv6E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jaU4Iuaqv6E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I go into detail on the prototype I got of the DroloFX Stretch Weaver pedal, and how I use it to make small setups sing. 
+
+Soundpacks, music and a heartfelt Thank You: https://patreon.com/hainbach
+Music: https://hainbach.bandcamp.com
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB</media:description>
+   <media:community>
+    <media:starRating count="652" average="4.96" min="1" max="5"/>
+    <media:statistics views="12266"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:X363WRU7UDk</id>
+  <yt:videoId>X363WRU7UDk</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>Making Music With Test Equipment: Patching Techniques</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=X363WRU7UDk"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-04-08T20:27:43+00:00</published>
+  <updated>2019-04-21T10:15:09+00:00</updated>
+  <media:group>
+   <media:title>Making Music With Test Equipment: Patching Techniques</media:title>
+   <media:content url="https://www.youtube.com/v/X363WRU7UDk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/X363WRU7UDk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I break down a patch on test equipment, going into details on how to create rhythmic structures with instruments that prefer to beep or drone. 
+
+Soundpacks, music and a heartfelt Thank You: https://patreon.com/hainbach
+Music: https://hainbach.bandcamp.com
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB</media:description>
+   <media:community>
+    <media:starRating count="714" average="4.99" min="1" max="5"/>
+    <media:statistics views="9899"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xcF8Duubhr4</id>
+  <yt:videoId>xcF8Duubhr4</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>Top 3 Best Sounding Synths 2019</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xcF8Duubhr4"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-04-01T13:02:50+00:00</published>
+  <updated>2019-04-21T04:30:20+00:00</updated>
+  <media:group>
+   <media:title>Top 3 Best Sounding Synths 2019</media:title>
+   <media:content url="https://www.youtube.com/v/xcF8Duubhr4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xcF8Duubhr4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I reveal the three synths I found to be the best sounding in Thomann's massive store. Includes audio examples of all the synths on display. #tsr19
+
+Sound packs, music and a heartfelt Thank You: https://patreon.com/hainbach
+Music: https://hainbach.bandcamp.com
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB
+
+Opening music by Kudelski: kudelski.bandcamp.com</media:description>
+   <media:community>
+    <media:starRating count="1194" average="4.76" min="1" max="5"/>
+    <media:statistics views="25148"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:En24uIjiGsg</id>
+  <yt:videoId>En24uIjiGsg</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>The Earth-Shaking Instrument Stockhausen Used | Rohde &amp; Schwarz UBM</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=En24uIjiGsg"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-03-28T22:55:08+00:00</published>
+  <updated>2019-04-21T16:26:08+00:00</updated>
+  <media:group>
+   <media:title>The Earth-Shaking Instrument Stockhausen Used | Rohde &amp; Schwarz UBM</media:title>
+   <media:content url="https://www.youtube.com/v/En24uIjiGsg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/En24uIjiGsg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I discover the extreme sonic joy that the is Rohde &amp; Schwarz UBM amplifier/filter. 
+
+Soundpacks, music and a heartfelt Thank You: https://patreon.com/hainbach
+Music: https://hainbach.bandcamp.com
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB
+
+The Rohde &amp; Schwarz UBM is a mystical creature - it was made for telephone line checking and misused by Stockhausen in many works, first and foremost Kontakte, and has been very well kept studio secret for acid and techno artists. It can make beautiful resonances and earth-shaking bass drums. It turns anything into a sound monster and has beefed up countless TB-303s, especially in the Netherlands, were knowledge of test equipment is spread way more.  I hunted three months for one, and it was well worth it. The timbres you get are very acoustic, they can sound like early electronic music but also like the monster bass drums and tones you get hit with at Berghain. Price range can be as low as 100EUR and as high as 350EUR, but there are many people already hunting for these even before I made this video, so don't &quot;RIP second hand prices&quot; me. 
+More on Kontakte: https://econtact.ca/12_4/kontakte/index.php</media:description>
+   <media:community>
+    <media:starRating count="2625" average="4.96" min="1" max="5"/>
+    <media:statistics views="53021"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9mCnxqCF9F0</id>
+  <yt:videoId>9mCnxqCF9F0</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>The Body feat. Dylan Trigg | Dark Techno with Test Equipment</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9mCnxqCF9F0"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-03-25T14:15:44+00:00</published>
+  <updated>2019-04-21T14:35:55+00:00</updated>
+  <media:group>
+   <media:title>The Body feat. Dylan Trigg | Dark Techno with Test Equipment</media:title>
+   <media:content url="https://www.youtube.com/v/9mCnxqCF9F0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9mCnxqCF9F0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I met philosopher Dylan Trigg at a shared performance in Hannover. He read an essay that captured my attention, because the opening paragraph felt less like a lecture and more like poetry. I was lucky enough to have my recorder running, and turned it into a track.
+
+Get this track and support what I do: https://patreon.com/hainbach
+Music: https://hainbach.bandcamp.com
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB
+
+
+Instruments used: 
+Wavetek, Rohde und Schwarz, Grundig, Hewlett Packard function generators, Brühl &amp; Kjaer bandpass filter, Krohn &amp; Hite stereo filter, Vermona Stereo EQ,
+Look Mum No Computer Fart Box (Berghain box more like it)
+Drolo FX  Stretch Weaver (prototype)
+Metasonix D1000</media:description>
+   <media:community>
+    <media:starRating count="1178" average="4.98" min="1" max="5"/>
+    <media:statistics views="12190"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BswLMDavu80</id>
+  <yt:videoId>BswLMDavu80</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>Impossible Piano Music on a Disklavier</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BswLMDavu80"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-03-21T20:28:13+00:00</published>
+  <updated>2019-04-21T16:09:41+00:00</updated>
+  <media:group>
+   <media:title>Impossible Piano Music on a Disklavier</media:title>
+   <media:content url="https://www.youtube.com/v/BswLMDavu80?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BswLMDavu80/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I explore black midi techniques on a 25000 EUR Yamaha Enspire Disklavier grand piano, hardly breaking it all in the process. 
+
+Support what I do: https://patreon.com/hainbach
+Music: https://hainbach.bandcamp.com
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB
+
+I was invited to join a motley crew of YouTube synth people at Thomann Synth Reactor last week. My interest in sitting down in a studio and being shown synths by a company demo guy was non-existent, so I scrolled through the Thomann catalog for inspiration. I came upon this Yahama Disklavier (and the Neumann binaural head, see my soul mate Look Mum No Computer's video: https://youtu.be/-YD18Zw2wKk). 
+
+Disklavier is Yamaha's player piano which gets more and more elaborate with every release. I have been wanting to work with one for close to 20 years, when I first became aware of them. Later it was works by Aphex Twin and Conlon Nancarrow that made me desire it even more. Then came along black MIDI, and as part of my process is testing everything to its limits and beyond, I decided to try out a mixture of serial composition and black MIDI on the poor piano. My sequencer of choice was Numerology, as I find it the most inspiring interface to compose experimental music on in a DAW. 
+
+Thomann provided travel, accomodation, and not enough beer, but no money and had no say in what I was going to do there. Decent deal for scratching two items off my bucket list.</media:description>
+   <media:community>
+    <media:starRating count="1716" average="4.86" min="1" max="5"/>
+    <media:statistics views="33774"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BukJfhD-6ys</id>
+  <yt:videoId>BukJfhD-6ys</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>Techno like it's 1969 | Test Equipment Setup Update</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BukJfhD-6ys"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-03-14T14:14:37+00:00</published>
+  <updated>2019-04-21T05:13:51+00:00</updated>
+  <media:group>
+   <media:title>Techno like it's 1969 | Test Equipment Setup Update</media:title>
+   <media:content url="https://www.youtube.com/v/BukJfhD-6ys?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BukJfhD-6ys/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I attempt to make a sludgy techno track on my test equipment using a newly-discovered rare pulse generator millisecond control over step distance.
+
+Support what I do: https://patreon.com/hainbach
+Questions and answers: http://reddit.com/r/hainbach
+Chat and Post-Show hangout: https://discord.gg/MUBp5AB
+Music: https://hainbach.bandcamp.com</media:description>
+   <media:community>
+    <media:starRating count="1081" average="4.98" min="1" max="5"/>
+    <media:statistics views="18142"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:epAjJD1gEiM</id>
+  <yt:videoId>epAjJD1gEiM</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>Composing On The Modular Synthesizer: Theatre Soundtrack</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=epAjJD1gEiM"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-03-11T20:42:48+00:00</published>
+  <updated>2019-04-20T07:05:40+00:00</updated>
+  <media:group>
+   <media:title>Composing On The Modular Synthesizer: Theatre Soundtrack</media:title>
+   <media:content url="https://www.youtube.com/v/epAjJD1gEiM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/epAjJD1gEiM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I compose a track for a theatre play on a Eurorack modular synthesizer. 
+
+Electricity bill support: https://patreon.com/hainbach
+Questions and answers: http://reddit.com/r/hainbach
+Chat: https://discord.gg/MUBp5AB
+
+I still hear that modular synthesizers are fartboxes, can do only bleeps and bloops or are mainly a source of happy accidents. With the tools available today, its easy to use a modular to precisely score what you have in your mind, and shape just like you would on a multitrack workstation. The added advantages are the joy of hands on control, the sounds of analog circuitry and modulation send to many signals, creating a more cohesive mix even before hitting tape. Recall is of course only possible as long as you keep the patch, or get really exact about manual patch-sheets.
+The play is Woyzeck by Georg Büchner and premiered rather successfully last weekend. Learn more: 
+https://www.mecklenburgisches-staatstheater.de/stueck-detail/woyzeck-1620.html</media:description>
+   <media:community>
+    <media:starRating count="727" average="4.96" min="1" max="5"/>
+    <media:statistics views="12510"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:19KbrTpgiEM</id>
+  <yt:videoId>19KbrTpgiEM</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>The Saddest Drone Machine - HP 3782A Error Detector</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=19KbrTpgiEM"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-03-07T22:12:46+00:00</published>
+  <updated>2019-04-21T16:44:32+00:00</updated>
+  <media:group>
+   <media:title>The Saddest Drone Machine - HP 3782A Error Detector</media:title>
+   <media:content url="https://www.youtube.com/v/19KbrTpgiEM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/19KbrTpgiEM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I explore the sad songs derelict telecommunications equipment sings.
+
+Keep the machines lit: https://patreon.com/hainbach
+Questions and answers: http://reddit.com/r/hainbach
+Chat: https://discord.gg/MUBp5AB</media:description>
+   <media:community>
+    <media:starRating count="5515" average="4.94" min="1" max="5"/>
+    <media:statistics views="85287"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nvkQ7CtCqtE</id>
+  <yt:videoId>nvkQ7CtCqtE</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>GRUNDIG Signalspeicher SS01 - A Microsound Tape Looper</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nvkQ7CtCqtE"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-03-04T14:18:55+00:00</published>
+  <updated>2019-04-21T08:20:51+00:00</updated>
+  <media:group>
+   <media:title>GRUNDIG Signalspeicher SS01 - A Microsound Tape Looper</media:title>
+   <media:content url="https://www.youtube.com/v/nvkQ7CtCqtE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nvkQ7CtCqtE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I try to make music with a forgotten piece of lab equipment from 1970 that enables 19.5 ms of recording with a range of 100kHz. 
+
+Support what I do, even when I fail: https://patreon.com/hainbach
+Questions and answers: http://reddit.com/r/hainbach
+Chat: https://discord.gg/MUBp5AB
+
+The Grundig Signalspeicher SS1 is a piece of lab-equipment from the 1970ies that enables repetition of an analog signal for viewing on an oscilloskope. I bought it with the hope htat it would be useful for music making, which is a bit trickier than I had thought.</media:description>
+   <media:community>
+    <media:starRating count="742" average="4.98" min="1" max="5"/>
+    <media:statistics views="17648"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ocrhkx-enHw</id>
+  <yt:videoId>Ocrhkx-enHw</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>Hainbach/My Panda Shall Fly - Swan Song | OP-1, tape loop</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ocrhkx-enHw"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-02-28T06:39:45+00:00</published>
+  <updated>2019-04-20T05:27:54+00:00</updated>
+  <media:group>
+   <media:title>Hainbach/My Panda Shall Fly - Swan Song | OP-1, tape loop</media:title>
+   <media:content url="https://www.youtube.com/v/Ocrhkx-enHw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Ocrhkx-enHw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I use the first rays of spring sunshine in Schwerin and make a piece using a piano tape loop and a synth arpeggio My Panda Shall Fly sent me. This collab will develop into album that is planned to release in Autumn.
+
+Get sounds and help me make videos: https://patreon.com/hainbach
+Ask: AMA: http://reddit.com/r/hainbach
+Chat: https://discord.gg/MUBp5AB</media:description>
+   <media:community>
+    <media:starRating count="289" average="4.94" min="1" max="5"/>
+    <media:statistics views="5411"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GJxXYdsQTJ8</id>
+  <yt:videoId>GJxXYdsQTJ8</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>The Pool Of The Black Star</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GJxXYdsQTJ8"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-02-25T16:28:49+00:00</published>
+  <updated>2019-04-20T01:53:41+00:00</updated>
+  <media:group>
+   <media:title>The Pool Of The Black Star</media:title>
+   <media:content url="https://www.youtube.com/v/GJxXYdsQTJ8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GJxXYdsQTJ8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In which I, Bana Haffar, Layne Marley and Mikè Thomson explore the acoustic lens built by the Masons at the heart of the Legislative Building in Winnipeg.
+
+Get sounds and help me make videos: https://patreon.com/hainbach
+Ask: AMA: http://reddit.com/r/hainbach
+Chat: https://discord.gg/MUBp5AB
+
+The Legislative Building in Winnipeg is wonder to explore for soundartists. At its heart lies an acoustic lense, the Pool of the Black Star. Its a sonically amazing amplifier, which is hard to get on tape. Nevertheless, our ragged band of heroes explores the possibilities, armed with field recorders, hands that clap, voices that sing and glas.</media:description>
+   <media:community>
+    <media:starRating count="800" average="4.97" min="1" max="5"/>
+    <media:statistics views="15942"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:d4-oraWfZew</id>
+  <yt:videoId>d4-oraWfZew</yt:videoId>
+  <yt:channelId>UCeovElJP0n0i8ADaPsRSd8g</yt:channelId>
+  <title>A Natural Measure | Percussion, Tape Loop, Cocoquantus, OP1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=d4-oraWfZew"/>
+  <author>
+   <name>HAINBACH</name>
+   <uri>https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g</uri>
+  </author>
+  <published>2019-02-21T06:00:02+00:00</published>
+  <updated>2019-04-20T13:23:00+00:00</updated>
+  <media:group>
+   <media:title>A Natural Measure | Percussion, Tape Loop, Cocoquantus, OP1</media:title>
+   <media:content url="https://www.youtube.com/v/d4-oraWfZew?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/d4-oraWfZew/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This track is out on tape now: https://xyzproject.bandcamp.com/album/xyztape002-various-artists
+
+Two of my favorite idiophones, the Morfbeats Gamelan strips and the Bellinger eKalimba together in one piece. I made this for the above sampler, which turned out to be a beautiful compilation of tracks from many artists I am happy to call friends.</media:description>
+   <media:community>
+    <media:starRating count="334" average="5.00" min="1" max="5"/>
+    <media:statistics views="5821"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
