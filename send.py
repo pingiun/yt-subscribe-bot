@@ -14,7 +14,6 @@ from tempfile import TemporaryDirectory
 
 import redis
 import requests
-import youtube_dl
 
 from telegram.bot import Bot
 
@@ -27,19 +26,6 @@ red = redis.StrictRedis(host=os.environ["POSTER_REDIS_HOST"])
 
 headers = {'User-Agent': 'ubuntu-server:youtubehaiku-archive:0.0.1 (by /u/pingiun)'}
 
-yt_opts = {
-    'postprocessors': [{
-        'key': 'FFmpegVideoConvertor',
-        'preferedformat': 'mp4',
-    }],
-    'format': '[filesize<50M]',
-    'ignoreerrors': True,
-}
-
-def send_file(direc, user, to_download, vid_file):
-    with open(os.path.join(direc, vid_file), 'rb') as f:
-        bot.send_video(user, video=f,
-                             caption="{}".format(to_download[vid_file.split('.')[1]]))
 
 def handle_file(file, root):
     user = file.split('.')[0]
@@ -55,7 +41,7 @@ def handle_file(file, root):
         logging.debug(file + " not an opml file")
         return
     print("Handling file for " + file)
-    to_download = dict()
+    to_download = list()
     for channel in root[0][0]:
         if 'xmlUrl' not in channel.attrib:
             print("No url available")
@@ -81,23 +67,12 @@ def handle_file(file, root):
                 continue
             video_id = thing.find('{http://www.youtube.com/xml/schemas/2015}videoId')
             print("Downloading " + video_id.text)
-            if video_id is not None:
-                try:
-                    to_download[video_id.text] = thing.find('{http://www.w3.org/2005/Atom}title').text
-                except Exception:
-                    to_download[video_id.text] = "No title found"
 
-    with TemporaryDirectory() as direc:
-        print("Downloading in " + direc)
-        print(to_download)
-        yt_opts['outtmpl'] = os.path.join(direc, '%(timestamp)s.%(id)s.%(ext)s')
-        with youtube_dl.YoutubeDL(yt_opts) as ydl:
-            ydl.download(to_download.keys())
-        for vid_file in sorted(os.listdir(direc), reverse=True):
-            try:
-                send_file(direc, user, to_download, vid_file)
-            except Exception as e:
-                logging.exception(e)
+            to_download.append((upload_timestamp, video_id.text))
+
+    videos = sorted(to_download, key=lambda x: x[0])
+    for _, video in videos:
+        bot.send_message(user, "https://youtu.be/" + video)
 
     red.hset('subscribebot:last_checks', user, time.time())
 
